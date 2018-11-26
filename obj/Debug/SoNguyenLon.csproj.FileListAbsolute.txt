@@ -1,0 +1,76 @@
+D:\Document\C#\SoNguyenLon\SoNguyenLon\bin\Debug\SoNguyenLon.exe.config
+D:\Document\C#\SoNguyenLon\SoNguyenLon\bin\Debug\SoNguyenLon.exe
+D:\Document\C#\SoNguyenLon\SoNguyenLon\bin\Debug\SoNguyenLon.pdb
+D:\Document\C#\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.csprojResolveAssemblyReference.cache
+D:\Document\C#\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.Form1.resources
+D:\Document\C#\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.Properties.Resources.resources
+D:\Document\C#\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.csproj.GenerateResource.Cache
+D:\Document\C#\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.exe
+D:\Document\C#\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.pdb
+D:\SoNguyenLon\SoNguyenLon\bin\Debug\SoNguyenLon.exe.config
+D:\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.exe
+D:\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.pdb
+D:\SoNguyenLon\SoNguyenLon\bin\Debug\SoNguyenLon.exe
+D:\SoNguyenLon\SoNguyenLon\bin\Debug\SoNguyenLon.pdb
+D:\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.csprojResolveAssemblyReference.cache
+D:\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.Form1.resources
+D:\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.Properties.Resources.resources
+D:\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.csproj.GenerateResource.Cache
+D:\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.FormSoLuong.resources
+F:\SoNguyenLon\SoNguyenLon\bin\Debug\SoNguyenLon.exe.config
+F:\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.exe
+F:\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.pdb
+G:\SoNguyenLon\SoNguyenLon\bin\Debug\SoNguyenLon.exe.config
+G:\SoNguyenLon\SoNguyenLon\bin\Debug\SoNguyenLon.exe
+G:\SoNguyenLon\SoNguyenLon\bin\Debug\SoNguyenLon.pdb
+G:\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.csprojResolveAssemblyReference.cache
+G:\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.Form1.resources
+G:\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.FormSoLuong.resources
+G:\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.Properties.Resources.resources
+G:\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.csproj.GenerateResource.Cache
+G:\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.csproj.CoreCompileInputs.cache
+G:\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.exe
+G:\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.pdb
+C:\Users\khong\Desktop\SoNguyenLon\SoNguyenLon\bin\Debug\SoNguyenLon.exe.config
+C:\Users\khong\Desktop\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.exe
+C:\Users\khong\Desktop\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.pdb
+C:\Users\khong\Desktop\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.csprojResolveAssemblyReference.cache
+C:\Users\khong\Desktop\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.Form1.resources
+C:\Users\khong\Desktop\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.FormSoLuong.resources
+C:\Users\khong\Desktop\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.Properties.Resources.resources
+C:\Users\khong\Desktop\SoNguyenLon\SoNguyenLon\obj\Debug\SoNguyenLon.csproj.GenerateResource.Cache
+C:\Users\khong\Desktop\SoNguyenLon\SoNguyenLon\bin\Debug\SoNguyenLon.exe
+C:\Users\khong\Desktop\SoNguyenLon\SoNguyenLon\bin\Debug\SoNguyenLon.pdb
+C:\Users\khong\Desktop\SoNguyenLon - Copy\SoNguyenLon\bin\Debug\SoNguyenLon.exe.config
+C:\Users\khong\Desktop\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.exe
+C:\Users\khong\Desktop\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.pdb
+C:\Users\khong\Desktop\SoNguyenLon - Copy\SoNguyenLon\bin\Debug\SoNguyenLon.exe
+C:\Users\khong\Desktop\SoNguyenLon - Copy\SoNguyenLon\bin\Debug\SoNguyenLon.pdb
+C:\Users\khong\Desktop\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.csprojResolveAssemblyReference.cache
+C:\Users\khong\Desktop\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.Form1.resources
+C:\Users\khong\Desktop\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.FormSoLuong.resources
+C:\Users\khong\Desktop\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.Properties.Resources.resources
+C:\Users\khong\Desktop\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.csproj.GenerateResource.Cache
+F:\Documents\SoNguyenLon - Copy\SoNguyenLon\bin\Debug\SoNguyenLon.exe.config
+F:\Documents\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.exe
+F:\Documents\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.pdb
+F:\Documents\SoNguyenLon - Copy\SoNguyenLon\bin\Debug\SoNguyenLon.exe
+F:\Documents\SoNguyenLon - Copy\SoNguyenLon\bin\Debug\SoNguyenLon.pdb
+F:\Documents\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.csprojResolveAssemblyReference.cache
+F:\Documents\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.Form1.resources
+F:\Documents\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.FormSoLuong.resources
+F:\Documents\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.Properties.Resources.resources
+F:\Documents\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.csproj.GenerateResource.Cache
+D:\Subjects\CDN_HK2_1718\SoNguyenLon - Copy\SoNguyenLon\bin\Debug\SoNguyenLon.exe.config
+D:\Subjects\CDN_HK2_1718\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.exe
+D:\Subjects\CDN_HK2_1718\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.pdb
+D:\Subjects\CDN_HK2_1718\SoNguyenLon - Copy\SoNguyenLon\bin\Debug\SoNguyenLon.exe
+D:\Subjects\CDN_HK2_1718\SoNguyenLon - Copy\SoNguyenLon\bin\Debug\SoNguyenLon.pdb
+D:\Subjects\CDN_HK2_1718\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.csprojResolveAssemblyReference.cache
+D:\Subjects\CDN_HK2_1718\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.Form1.resources
+D:\Subjects\CDN_HK2_1718\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.FormSoLuong.resources
+D:\Subjects\CDN_HK2_1718\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.Properties.Resources.resources
+D:\Subjects\CDN_HK2_1718\SoNguyenLon - Copy\SoNguyenLon\obj\Debug\SoNguyenLon.csproj.GenerateResource.Cache
+D:\Subjects\CDN_HK2_1718\Big_Interger_Caculator\SoNguyenLon\bin\Debug\SoNguyenLon.exe.config
+D:\Subjects\CDN_HK2_1718\Big_Interger_Caculator\SoNguyenLon\obj\Debug\SoNguyenLon.exe
+D:\Subjects\CDN_HK2_1718\Big_Interger_Caculator\SoNguyenLon\obj\Debug\SoNguyenLon.pdb
